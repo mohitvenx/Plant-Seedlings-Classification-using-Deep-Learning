@@ -10,29 +10,18 @@
  
 We have taken a Plant Seedlings Classification dataset that classifies 12 different varieties of plant seedlings. They are as follows:
 
-Black-grass
-
-Charlock
-
-Cleavers
-
-Common Chickweed
-
-Common Wheat
-
-Fat Hen
-
-Loose Silky-bent
-
-Maize
-
-Scentless Mayweed
-
-Shepherds Purse
-
-Small-flowered Cranesbill
-
-Sugar Beet
+1. Black-grass
+2. Charlock
+3. Cleavers
+4. Common Chickweed
+5. Common Wheat
+6. Fat Hen
+7. Loose Silky-bent
+8. Maize
+9. Scentless Mayweed
+10. Shepherds Purse
+11. Small-flowered Cranesbill
+12. Sugar Beet
 
 # Applications of our model
 
